@@ -17,13 +17,5 @@ Both approaches are trained and evaluated on the same dataset to provide a fair 
 **Source:** Kaggle  
 **Link:** https://www.kaggle.com/datasets/irfanakbarihabibi/food-ingredients-dataset-with-halal-label
 
-## Evaluation
-
-The models will be compared using:
-
-* Accuracy
-* Precision
-* Recall
-* F1-score
-* Confusion Matrix
-* Error Analysis
+## Conclusion
+LSTM(NLP) is a better choice because it understands word meaning and context while Logistic Regression will just see whether word is present or not. LSTM is the better model because it can capture deeper patterns.Logistic Regression(Traditional Classification Model) is getting better evaluation metrices because it is good for keyword spotting and halal/haram classification is mostly keyword-based.
