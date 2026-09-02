@@ -1,6 +1,6 @@
 # Halal vs Haram ML vs LSTM
 
-A machine learning and NLP project for classifying food products as **Halal or Haram** based on their ingredient lists.
+Traditional machine learning and NLP LSTM model for classifying food products as **Halal or Haram** based on their ingredient lists.
 
 ## Objective
 
